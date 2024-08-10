@@ -1,2 +1,1 @@
-# Facial-recognition-system-
-complete facial recognition system
+# Automated-Attendance-Tracking-System
